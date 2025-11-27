@@ -1,0 +1,6 @@
+OrderID,OrderDate,StoreID,StoreRegion,ProductID,ProductName,Category,Quantity,UnitPrice,Cost,Sales,Profit
+1001,2024-01-05,1,North,200,"Classic Chair","Furniture",2,45.00,25.00,90.00,40.00
+1002,2024-01-05,2,South,101,"Bluetooth Headphones","Electronics",1,120.00,60.00,120.00,60.00
+1003,2024-02-12,1,North,305,"Desk Lamp","Home Decor",3,20.00,8.00,60.00,36.00
+1004,2024-03-22,3,West,200,"Classic Chair","Furniture",1,45.00,25.00,45.00,20.00
+1005,2024-04-02,2,South,450,"Coffee Maker","Appliances",1,80.00,50.00,80.00,30.00
